@@ -1,0 +1,24 @@
+1. 
+Name: Bob
+Email: bob@sfu.ca
+ID: 12345678
+Major: Statistics
+
+2. 
+Name: Alice
+Email: alice@sfu.ca
+ID: 12345678
+Major: Computing Science
+
+3. 
+Name: Mary
+Email: mary@sfu.ca
+ID: 12345678
+Faculty: Faculty of Science
+
+4. 
+Name: Bill
+Email: bill@sfu.ca
+ID: 12345678
+Faculty: Faculty of Applied Sciences
+
