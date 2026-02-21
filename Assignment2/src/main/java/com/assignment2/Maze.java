@@ -6,7 +6,7 @@ public class Maze{
     public Maze(){
         System.out.println("Creating a maze");
     }
-    void add_room(Room room){
+    void addRoom(Room room){
         if (!room_list.contains(room)){
             room_list.add(room);
         }
